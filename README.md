@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="docs/Logo.png"
+    src="Docs/Logo.png"
     alt="Saudi RAG Chatbot"
     width="170"
     style="border-radius: 50%;"
@@ -32,7 +32,7 @@ This system combines semantic retrieval with controlled language generation to p
 ## System Overview
 
 <p align="center">
-  <img src="docs/System-Overview.jpeg" width="85%"/>
+  <img src="Docs/System-Overview.jpeg" width="85%"/>
 </p>
 
 ---
