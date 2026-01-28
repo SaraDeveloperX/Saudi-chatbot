@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="Docs/Logo.png"
+    src="Docs/logo.jpeg"
     alt="Saudi RAG Chatbot"
     width="170"
     style="border-radius: 50%;"
