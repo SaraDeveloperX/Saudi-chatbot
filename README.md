@@ -1,11 +1,10 @@
-<p align="center">
-  <img
-    src="Docs/logo.jpeg"
-    alt="Saudi RAG Chatbot"
-    width="170"
-    style="border-radius: 50%;"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td style="border-radius:50%; overflow:hidden;">
+      <img src="docs/logo.jpeg" width="170"/>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Saudi RAG Chatbot</h1>
 
