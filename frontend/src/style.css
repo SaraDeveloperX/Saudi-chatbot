@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Tajawal', sans-serif;
+  --color-brand: #6CAD85;
+  --color-page-bg: #F4F6F8;
+  --color-pill-bg: #F0F2F4;
+  --color-bubble-user: #6CAD85;
+  --color-bubble-bot: #EEF0F2;
+  --radius-card: 48px;
+  --radius-bubble: 28px;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  background-color: var(--color-page-bg);
+  font-family: 'Tajawal', sans-serif;
+}
