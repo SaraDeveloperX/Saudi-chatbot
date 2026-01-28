@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="docs/Logo.png"
-    alt="Saudipedia RAG Chatbot"
+    alt="Saudi RAG Chatbot"
     width="170"
     style="border-radius: 50%;"
   />
