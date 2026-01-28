@@ -32,7 +32,7 @@ This system combines semantic retrieval with controlled language generation to p
 ## System Overview
 
 <p align="center">
-  <img src="Docs/System-Overview.png" width="85%"/>
+  <img src="Docs/System-Overview.jpeg" width="85%"/>
 </p>
 
 ---
