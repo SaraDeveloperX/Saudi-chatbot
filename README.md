@@ -54,7 +54,7 @@ make down
 ```
 
 > For full setup and local development details, see:  
-→ **[Setup Guide](docs/SETUP.md)**
+→ **[Setup Guide](Docs/SETUP.md)**
 
 
 ---
